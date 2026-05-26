@@ -32,3 +32,14 @@ In this video I show selection of changes (Left: Original, Right: Rework):
 </a>
 </td>
 </tr></table>
+
+## Credits & Disclaimer
+
+### Original Mods
+- **Epic Knights: Shields, Armor and Weapons** - [Modrinth](https://modrinth.com/mod/epic-knights-shields-armor-and-weapons) | [CurseForge](link)
+- **Better Combat** - [Modrinth](https://modrinth.com/mod/bettercombat) | [CurseForge](link)
+
+### Disclaimer
+This is an **unofficial** compatibility datapack created by the community.
+
+All rights to the original mods remain with their respective creators. This datapack only provides modified weapon attribute configurations to enhance the integration between the two mods.
