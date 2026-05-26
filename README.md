@@ -8,12 +8,7 @@ _A datapack reworking the BetterCombat integration for Epic Knights_
 
 This datapack tries to fix that by giving every weapon type a **unique combo sequence** built around how that weapon is somehow actually used.
 
-<details>
-<summary>Showcase</summary>
-
-[![Watch the video](https://img.youtube.com/vi/umGMVpfIYnc/maxresdefault.jpg)](https://www.youtube.com/watch?v=umGMVpfIYnc)
-
-</details>
+[Showcase Video](https://img.youtube.com/vi/umGMVpfIYnc/maxresdefault.jpg)](https://www.youtube.com/watch?v=umGMVpfIYnc)
 
 ## Requirements
 
